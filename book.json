@@ -1,3 +1,9 @@
 {
-    "plugins": ["expandable-chapters"]
+    "plugins": ["atoc"],
+    "pluginsConfig": {
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
+        }
+    }
 }
