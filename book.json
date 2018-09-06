@@ -1,6 +1,4 @@
 {
    "plugins": [
-      "expandable-chapters",
-      "splitter"
-      ]
+      "atoc"
 }
