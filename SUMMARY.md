@@ -1,6 +1,6 @@
 # 目录
 
-* [前端技术](README.md)
+* [综述](README.md)
 * [1 移动跨平台交互篇](chapter1/README.md)
   * [1.1 H5原生混合](chapter1/chapter1-1/README.md)
     * [1.1.1 ionic1.x混合框架](chapter1/chapter1-1/content1.md)
