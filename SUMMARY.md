@@ -10,4 +10,8 @@
 * [2. 前置服务篇](chapter2/README.md)
   * [第一节](chapter2/content1.md)
 * [3. 业务方案实施](chapter3/README.md)
+* [4. 组件使用](chapter3/README.md)
+* [5. 开发调试](chapter3/README.md)
+
+
 
