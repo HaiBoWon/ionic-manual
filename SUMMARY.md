@@ -13,8 +13,8 @@
 * [5.扩展篇](chapter5/README.md)
   * [5.1.性能优化](chapter5/lv2-1/README.md)
   * [5.2.对接JsBridge开发](chapter5/lv2-2/README.md)
-    * [5.2.1.概述js与webview通信](chapter5/lv2/content1.md)
-    * [5.2.2.对接JsBridge](chapter5/lv2/content2.md)
+    * [5.2.1.概述js与webview通信](chapter5/lv2-2/content1.md)
+    * [5.2.2.对接JsBridge](chapter5/lv2-2/content2.md)
 * [6.案例分享](chapter7/README.md)
 
 
