@@ -1,4 +1,4 @@
-# 概述WebView与JS交互
+# 概述JS与webview通信
  * Android & iOS 调用 JS 的方法 
  * JS 调用 Android & iOS 的方法
 
