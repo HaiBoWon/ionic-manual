@@ -4,7 +4,7 @@
 * [3.组件篇](chapter3/README.md)
 * [4.规约篇](chapter4/content1.md)
 * [5.扩展篇](chapter5/README.md)
-  * [5.1.对接JsBridge开发](chapter5/README.md)
+  * [5.1.对接JsBridge开发](chapter5/lv2/README.md)
     * [5.1.1.js与webview通信方式](chapter5/lv2/README.md)
     * [5.1.2.对接JsBridge](chapter5/lv2/content1.md)
 * [5.开发调试](chapter6/README.md)
