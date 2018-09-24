@@ -9,7 +9,7 @@
     * [5.1.1.js与webview通信方式](chapter5/lv2/content1.md)
     * [5.1.2.对接JsBridge](chapter5/lv2/content2.md)
 * [5.开发调试](chapter6/README.md)
-* [6.项目实例](chapter7/README.md)
+* [6.案例分享](chapter7/README.md)
 
 
 
