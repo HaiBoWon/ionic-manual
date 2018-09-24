@@ -6,7 +6,7 @@
   ],
   "pluginsConfig": {
       "versions": {
-        "gitbookConfigURL": "http://localhost:4000/book.json",
+        "gitbookConfigURL": "https://github.com/wanghb918/ionic-manual/blob/master/book.json",
         "options": [
           {
             "value": "http://localhost:4000/history/v1.0.0/",
