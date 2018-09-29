@@ -3,6 +3,7 @@
 * [1.初识篇](chapter1/README.md)
   * [1.1.环境搭建](chapter1/content1.md)
   * [1.2.快速创建一个项目](chapter1/content2.md)
+  * [1.3.ionic组件介绍](chapter1/content3.md)
 * [2.开发篇](chapter2/README.md)
   * [2.1.ionic1.x扩展库](chapter2/lv2-1/README.md)
   * [2.2.基于angular开发](chapter2/lv2-1/content1.md)
