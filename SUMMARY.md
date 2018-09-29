@@ -9,7 +9,7 @@
   * [2.2.调试](chapter2/lv2-1/content2.md)
   * [2.3.发布](chapter2/lv2-1/content3.md)
 * [3.组件篇](chapter3/README.md)
-  * [3.1.ionic1.x扩展库](chapter3/lv2-1/content1.md)
+  * [3.1.ionic1.x扩展库](chapter3/content1.md)
 * [4.规约篇](chapter4/content1.md)
 * [5.扩展篇](chapter5/README.md)
   * [5.1.性能优化](chapter5/lv2-1/README.md)
