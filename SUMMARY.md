@@ -1,4 +1,4 @@
-* [简介](README.md)
+* [介绍](README.md)
 * [引言](back.md)
 * [1.初识篇](chapter1/README.md)
   * [1.1.环境搭建](chapter1/content1.md)
